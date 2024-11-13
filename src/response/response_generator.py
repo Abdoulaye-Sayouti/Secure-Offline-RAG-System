@@ -164,7 +164,7 @@ class ResponseGenerator:
         6. Don't mention the source of the information
         7. Do not repeat the question 
         8. Clearly state the lack of information in the provided context to answer the question if it's the case.
-
+        9. Respond only in the language of the query.
         Response:
         """)
        
