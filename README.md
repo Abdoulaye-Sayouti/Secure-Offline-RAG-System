@@ -20,6 +20,7 @@ A  Retrieval-Augmented Generation (RAG) system designed for efficient processing
 
 ### Pipeline Architecture
 ![RAG Pipeline Architecture](rag-pipeline.png)
+
 The system implements a  RAG pipeline with the following key components :
 
 1. **Preprocessing Stage**:
