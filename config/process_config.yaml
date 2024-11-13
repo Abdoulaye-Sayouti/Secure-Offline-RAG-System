@@ -1,0 +1,8 @@
+retrieval:
+  llamafile_server_base_url: "http://localhost:8081"
+  send_nb_chunks_to_llm: 2
+  use_bm25: true
+  bm25_weight: 0.2
+  top_k: 100
+  use_reranking: true
+  use_query_expansion: false

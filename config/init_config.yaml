@@ -1,0 +1,51 @@
+logging:
+  level: "INFO"
+  show_progress: true
+  hide_http_requests: true
+  file_logging: true
+  console_logging: true
+
+model:
+  embedding_model_hf: "nomic-ai/nomic-embed-text-v1.5"
+  rerank_model: "BAAI/bge-reranker-v2-m3"
+  device_rerank: "cuda"
+
+ingestion : 
+  ignore_columns: None #["Query"]
+
+processing:
+  TOC_text: "Table of Contents"
+  headers_to_split_on: 
+    - ["##", "Header 2"]
+    - ["###", "Header 3"]
+    - ["####", "Header 4"]
+    - ["Table of Contents", "Table of Contents"]
+  headers_to_split_on_for_urls: 
+    - ["#", "Header 1"]
+    - ["##", "Header 2"]
+    - ["###", "Header 3"]
+    - ["####", "Header 4"]
+    - ["Table of Contents", "Table of Contents"]
+  headers_keys: {"Header 1":"# ", "Header 2":"## ", "Header 3":"### ", "Header 4":"#### ", "Table of Contents":"# "}
+  OMP_NUM_THREADS: 15
+  chunk_size: 2000
+  chunk_overlap: 200
+  batch_size_embeddings: 32
+  batch_size_reranking: 8
+  split_documents: true
+
+paths:
+  cache_dir: "./cache"
+  data_dir: "./data"
+  log_dir: "./logs"
+
+files:
+  train_data: "data/raw/train.csv"
+  test_data: "data/raw/test.csv"
+  train_output: "data/processed/submission_train_final.csv"
+  test_output: "data/processed/submission_test_final.csv"
+  document_paths:
+    - "data/raw/data.txt"
+    - "data/raw/742762880-Matter-1-3-Core-Specification.pdf"
+
+    

@@ -1,0 +1,1041 @@
+trustii_id,Query
+1,"What qualities are defined in tables describing attributes, commands, etc.?"
+2,What does the UniqueID Attribute indicate?
+3,What is the signature algorithm used to sign the DAC?
+4,How are the scalar fields in the nonce encoded for serialization within the nonce?
+5,acronym of  SRP 
+6,"How are operational groups identified within a Fabric, and what is the role of Group Identifiers?"
+7,What happens if the AddOrUpdateThreadNetwork command is received without an armed fail-safe context?
+8,What ranges of Vendor IDs are reserved and what are they reserved for?
+9,What events does the Bridged Device Basic Information Cluster support?
+10,What does the Status field in StatusIB indicate?
+11,What is the structure of the Packed Binary Data Structure in the QR code?
+12,What does the ActiveCalendarType attribute represent?
+13,What is the Cluster ID of the Super Disco Ball cluster?
+14,How is the Group ID space allocated?
+15,What are the examples of valid encodings using the fallback method?
+16,What information does the NetworkFaultChange event data contain?
+17,Define a Client in the context of clusters.
+18,What is the purpose of the Unit Localization Cluster?
+19,What is the purpose of the RegisterClientResponse command?
+20,What determines whether an unsynchronized message is processed immediately or stored for later processing?
+21,What is the purpose of the Global Group Encrypted Data Message Counter?
+22,What are the rules for block ordering in BDX data transfer messages?
+23,What is the purpose of the Read Request Action?
+24,What is a path used for in this specification?
+25,What is the significance of the ClientsSupportedPerFabric attribute?
+26,What constraint applies to the Path field in DataVersionFilterIB?
+27,What does the RouterRoleCount attribute indicate?
+28,What remains consistent throughout the updates to NOCs and ACL entries in the example?
+29,How are revisions described in the Matter specification?
+30,What does the TxBeaconCount attribute indicate?
+31,What does the 'ScanNetworks' command do?
+32,How many fault conditions are specified in the BatChargeFaultEnum data type?
+33,What is the TLV Type for CommandPathIB?
+34,What does the SourceList field contain in the ConfigurationStruct Type?
+35,What are the setup steps for Visual Studio Code development in Matter?
+36,When are acknowledgments conveyed in a piggybacked manner in MRP?
+37,What is the requirement for the size of the IPv6 neighbor cache entries in Matter Nodes?
+38,What does the EndpointListTypeEnum Type define?
+39,What are the two options for a proxy?
+40,What types of protocols are supported for download in the OTA Software Update Provider Cluster?
+41,What is the requirement regarding the presence of entries in the DeviceTypeList attribute?
+42,What is the purpose of the Start Offset (STARTOFS) field?
+43,What does each entry in the LabelList attribute represent?
+44,What do profile-specific tags identify?
+45,How does Matter ensure interoperability between Nodes in different Fabrics?
+46,How does Matter compute a shared secret using ECDH?
+47,How does MRP handle duplicate messages?
+48,"What does the term ""provisional"" mean in the context of a specification?"
+49,What rules apply when using a QR Code to show the Onboarding Payload?
+50,When should a Commissioner use active scanning using Probe Requests for Wi-Fi discovery?
+51,What does the Effective Maximum for Character String Data Type specify?
+52,What method do Administrators use to open a commissioning window on a Node?
+53,How is an open BTP session exposed to the next-higher session layer?
+54,What information does the NetworkFaultChange event data contain?
+55,What action initiates an Invoke transaction?
+56,What is the purpose of the Global Group Encrypted Control Message Counter?
+57,What is the purpose of the R Flag in MRP?
+58,How is blank conformance handled in the Matter specification?
+59,What does the PartitionId attribute indicate?
+60,When is CASE used as a session establishment mechanism according to the specification?
+61,How is device attestation verification conducted in Matter?
+62,How is a Node identified within a Fabric?
+63,acronym of  PAA 
+64,What is the purpose of the OpenCommissioningWindow command?
+65,What does the Data element in EventDataIB contain?
+66,"What is an unsynchronized message, and how is it processed upon receipt?"
+67,What does the ProductAppearance Attribute provide?
+68,How are the fields in the event encoded?
+69,What behavior is expected from Stub Routers in a multiple network configuration?
+70,What attributes does the ResetCounts command reset to 0?
+71,What other qualities can attribute data have?
+72,What is fabric-index?
+73,Can a device type prescribe the minimum number of bindings supported on an endpoint?
+74,What data model types are represented as MEIs in Matter Specification?
+75,"What threat involves a malicious device or party posing as a valid Matter Administrative Node using operational credentials, potentially leading to control of the Node and access to sensitive Node data?"
+76,How should a discovering Node use acquired information on available Bridged Devices?
+77,What does the ActiveModeInterval attribute indicate?
+78,What additional rules apply to the fallback method?
+79,What actions are taken when the fail-safe timer expires before the CommissioningComplete command is successfully invoked?
+80,What does the ClusterStatus field in StatusIB represent?
+81,What is the intention regarding alignment with cluster specifications in the ZCL?
+82,Which context-specific tag is used to identify the basic constraints extension entry in the Matter certificate extensions list?
+83,When is PASE used as a session establishment mechanism according to the specification?
+84,How are the certificates represented in the Matter TLV schema format?
+85,Provide an example of deleting an item in a list.
+86,How does the PatternRequest command handle the Passcode field?
+87,What is recommended for vendors regarding distribution schemes?
+88,What is the purpose of the PH (Pairing Hint) key in the TXT record?
+89,What does the NetworkName attribute indicate?
+90,What revisions are mentioned in the revision history of the Extended Color Light device?
+91,What is the purpose of the Matter TLV (Tag-Length-Value) format?
+92,What happens to any context-specific tags not listed in the associated TLV schemas for TLV-encoded PASE messages?
+93,What is the formula for calculating the retransmission timeout in MRP?
+94,"Where is the responsibility for constructing and encoding messages situated, as outlined in this section?"
+95,What is the purpose of the CalendarTypeEnum data type?
+96,How is the target host name constructed for DNS-SD?
+97,What does InvokeResponseIB contain?
+98,When does a peer stop its send-acknowledgement timer?
+99,"What is the purpose of epoch key rotation, and how frequently is it expected to occur?"
+100,What does the ExtAddress field specify in the NeighborTableStruct type?
+101,What defines an 8-bit enumeration in the Matter Specification?
+102,What considerations should be made when converting temperature values for display?
+103,How does Matter ensure security within a Fabric?
+104,What are the fields included in the Matter certificate structure?
+105,When can a Commissionee accept PASE requests after being successfully commissioned?
+106,How are percentage and percentage100ths defined in the Matter Specification?
+107,What is the purpose of providing the RCAC certificate in both formats?
+108,What does the RouteTable attribute indicate?
+109,What is Visual Studio Code (VS Code) used for in Matter?
+110,How is the Sigma3 Key (S3K) generated?
+111,What is the purpose of the FabricIndex field in the RemoveFabric command?
+112,What is the purpose of the System Model Specification?
+113,What is a Key Center?
+114,How does the server verify the received verification key in the UnregisterClient command?
+115,What does the initiator do after generating the signature in CASE?
+116,What level of security is ensured for access to shared keys?
+117,What is a cluster command?
+118,What is cluster data version?
+119,Where should the Access Control Cluster be present?
+120,What does the AccessControlEntryPrivilegeEnum data type represent?
+121,What are the implications of a stand-alone acknowledgement packet in BTP?
+122,Where is the private part of the code signing key stored?
+123,What does the Range Control (RC) field specify in SendInit/ReceiveInit messages?
+124,Could you provide details of the first example Certification Declaration presented in Appendix F?
+125,What is the purpose of the Time Format Localization Cluster?
+126,What is the full name of the organization mentioned in the copyright?
+127,What is the purpose of the Path tag in EventReports?
+128,What happens during a Factory Data Reset to the Access Control Cluster?
+129,What is the purpose of a subscription proxy?
+130,What is the purpose of the Crypto_HMAC() function?
+131,What does the RSSI attribute indicate?
+132,What does the TxIndirectMaxRetryExpiryCount attribute indicate?
+133,How does the commissioning process start with UDC?
+134,What is the purpose of the Nullable designation for a data field?
+135,What does the key CM (Commissioning Mode) indicate in TXT records?
+136,Can a defined element be reused or instantiated in a different cluster according to the Matter specification?
+137,What context-specific tag is associated with the basic constraints extension in the Matter certificate structure?
+138,What is the purpose of the Crypto_Sign() and Crypto_Verify() functions in Matter?
+139,What are MRP control parameters computed based on?
+140,How do Matter vendors ensure the availability of their Observer Node?
+141,Can multiple operational groups share the same operational group key?
+142,What does the TxErrBusyChannelCount attribute indicate?
+143,acronym of  CA 
+144,What device typically hosts the Thread mesh Service Registry?
+145,What is the scope of the Matter Data Model specifications?
+146,What is the purpose of the Duplicate Condition?
+147,What trust level should a Commissioner or Administrator have when adding Root Certificates to a Node?
+148,What does the RxErrSecCount attribute indicate?
+149,How are default values defined for data fields?
+150,What does the BatCapacity Attribute indicate?
+151,What is the format of the public key material in the Matter certificate structure?
+152,What are the values and descriptions of ColorEnum?
+153,What message does the initiator send after completing its tasks?
+154,Under what circumstance should the LatestValue field be set to NULL?
+155,What is the purpose of the ReorderNetwork command?
+156,What options are available for the HourFormat attribute?
+157,What does a Firmware Digest represent?
+158,What attribute contains a list of NetworkInterface structs in the General Diagnostics Cluster?
+159,What are the privileges related to access?
+160,What is the purpose of the NOCResponse command?
+161,What does the PAACert field uniquely identify?
+162,"What threat involves an attacker exploiting a vulnerability common to most or all of the Validator Node software, potentially causing many Validator Nodes to misbehave?"
+163,What are the requirements for validating the inner signature in the PKCS#10 csr sub-field of the CSRResponse Command's NOCSRElements field?
+164,What are the legal situations for the key CM?
+165,How does the scoping strategy work in the Matter protocol?
+166,What is the semantics of the Subject ID for PASE AuthMode?
+167,"What is the constraint for the attribute ""Order"" with ID 0x0001?"
+168,What is the purpose of the SubscribeRequestMessage?
+169,What is accessing fabric?
+170,How is epoch key rotation implemented for Nodes that do not maintain synchronized time?
+171,What is the purpose of the TransitionTime field in the InstantActionWithTransition command?
+172,How is the order of power sources defined in the Sources attribute?
+173,What does the RxTotalCount attribute indicate?
+174,Can you provide examples of Matter-Specific Object Identifiers (OIDs) listed in the table?
+175,How is the RCAC certificate represented in Matter TLV format?
+176,What verification steps does the receiver of the MsgCounterSyncRsp message perform?
+177,"What is the mapping or equivalent of ""Administrator"" terminology in Matter to HomeKit, Weave, Thread, and Zigbee?"
+178,What does the ChannelNumber attribute indicate?
+179,Do the issuer and subject fields match exactly?
+180,How does the proxy enforce the source's ACLs?
+181,How many CASE session contexts per fabric should a node support at minimum?
+182,"What is the mapping or equivalent of ""Router"" terminology in Matter to HomeKit, Weave, Thread, and Zigbee?"
+183,How is the number of DACs issued controlled by manufacturers?
+184,Can a BTP session open and close without affecting the underlying Bluetooth LE connection?
+185,What does the Constraint field specify for the LabelList attribute in the User Label Cluster?
+186,What cryptographic scheme does Matter use for public key cryptography?
+187,What is emphasized regarding reliability?
+188,What does the PacketMulticastTxCount attribute indicate?
+189,Are there different types of Report transactions?
+190,What does the BatPresent Attribute indicate?
+191,What extensions are included in the PAA certificate?
+192,What does the Application Payload field contain?
+193,What is the purpose of the TagList feature in the Descriptor cluster?
+194,What happens if any of the parameters in the OperationalDataset are invalid during an addition?
+195,What is the purpose of the Key Derivation Function (KDF) in Matter?
+196,What are the requirements for using the BDX protocol over various transports?
+197,What is the requirement regarding the presence of the Binding cluster?
+198,"What is a ""Group Path"" according to this specification?"
+199,What networking technologies can be used for discovery?
+200,What fields does the 'ScanNetworksResponse' command contain?
+201,"What is the mapping or equivalent of ""Cluster"" terminology in Matter to HomeKit, Weave, Thread, and Zigbee?"
+202,How should vendors protect DCL private keys?
+203,What TLV schema does the payload of the PBKDFParamResponse message follow?
+204,"What is a Short Idle Time (SIT) ICD, and what are typical examples?"
+205,What is the significance of the PakeFinished message in a PASE session establishment?
+206,"How is key material distributed to key holders, and what information is exposed through the Group Key Management Cluster?"
+207,How does Matter incorporate privacy preserving mechanisms in its core specification?
+208,What does the initialization of Message Reception State involve?
+209,What does the Axis attribute in the Disco Ball Cluster indicate?
+210,What is the purpose of the User Label Cluster?
+211,What are the features supported by the Disco Ball Cluster?
+212,What is the significance of an Attribute ID in Matter Specification?
+213,What is the purpose of the Rotating Device Identifier?
+214,What does the AdminVendorId attribute indicate?
+215,What are the responsibilities of a TestHouse role regarding DCL?
+216,What fields are present in the Incoming Subject Descriptor (ISD) Structure?
+217,acronym of  VID 
+218,What is a Node?
+219,What is the minimal requirement for Operational Certificate?
+220,What does the BatReplaceabilityEnum type indicate?
+221,What value is associated with the public-key-algorithm tag for elliptic curve public key algorithms in the Matter certificate structure?
+222,What does the SerialNumber Attribute specify?
+223,What is the purpose of Write Response Generation?
+224,How does an OTA Requestor determine the availability of new Software Images?
+225,How are enumeration types encoded?
+226,"What does the ""Name"" field indicate?"
+227,What type of data structure does the Binding attribute use?
+228,What is the significance of the MinIntervalFloor parameter?
+229,What is covered in the Element Requirements section?
+230,What type of action is the Report Data Action?
+231,Under what circumstances can an OTA Requestor apply the update after multiple retries?
+232,What is the purpose of the WindowStatus attribute?
+233,What happens in Step 6 of the process?
+234,What is the role and scope of the Ethernet Network Diagnostics Cluster?
+235,What is a Vendor Identifier (VID) in the Matter protocol?
+236,What is Service Discovery?
+237,What is the purpose of indirect proxies?
+238,What is the format of examples of CASE Authenticated Tags provided in the specification?
+239,What fields are present in the CommandPathIB?
+240,What are the guidelines for creating issues in Matter?
+241,What does the PatternStruct type indicate?
+242,What does the Targets field in the AccessControlEntryStruct type signify?
+243,What constraints are imposed on the TargetsPerAccessControlEntry attribute?
+244,What is a Commissionee?
+245,What is DataVersionFilterIB?
+246,How are unsolicited messages processed by the Exchange Layer?
+247,What does the Ethernet Network Diagnostics Cluster provide?
+248,What actions are involved in an Outgoing Timed Request Action?
+249,What does the Conceptual Access Control Privilege Granting algorithm describe?
+250,What does the TxNoAckRequestedCount attribute indicate?
+251,What does the OverrunCount attribute indicate?
+252,What are manufacturer extensible contexts and how can they be extended?
+253,"What threat involves false information provided by a compromised, vulnerable, or malicious device, potentially triggering actions or tricking users into configuring the wrong device?"
+254,What should the OTA Requestor do in case of time-out or error while awaiting an action from the OTA Provider?
+255,What does the ActiveTimestamp attribute indicate?
+256,How does a BTP Server close a BTP session?
+257,How are Access Control Lists (ACLs) used in the context of Access Control?
+258,What is the ID and name of the PHYRate attribute?
+259,What is the Matter certificate data structure?
+260,"What does the IntentEnum ""EndUserSupport"" indicate?"
+261,What are the criteria for selecting the window size and maximum BTP Segment Size by the BTP Server?
+262,How many failed commission attempts should trigger Nodes to exit commissioning mode?
+263,What is the Secure Session Message Counter history window used for?
+264,What signifies the completion of the commissioning process in Matter?
+265,What is the purpose of the ReachableChanged Event?
+266,What are the fields included in the OTA Software Image file layout?
+267,What is the version field set to in the PAI certificate?
+268,What does the Data Model specification not define?
+269,How do upstream subscriptions adapt?
+270,What is MoreChunkedMessages used for?
+271,What is the version field set to in the PAA certificate?
+272,Why are message counters initialized with a random value?
+273,What is the purpose of the DSTOffset attribute?
+274,What form does the <event> component of an event path take?
+275,What is the purpose of the Subscribe Transaction?
+276,What encoding is used to simplify referring to StatusReport messages in protocol specifications?
+277,What is the ArmFailSafeResponse Command?
+278,What does the Cluster field in the AccessControlTargetStruct type specify?
+279,What is the purpose of the Duration field in the EnableActionWithDuration command?
+280,How does the command handle an update in the AddOrUpdateThreadNetwork operation?
+281,What information does the 'WiFiScanResults' field in the 'ScanNetworksResponse' command provide?
+282,What does the RxErrUnknownNeighborCount attribute indicate?
+283,What does the LogContent field contain if BDX is requested and the Status field is set to Success?
+284,How does the ConnectNetwork command communicate success or failure?
+285,How does Matter ensure confidentiality and integrity in data communications between devices?
+286,"What inputs does the algorithm described in ""6.6.5.2. Overall Algorithm"" take?"
+287,What is the purpose of Matter's Distributed Compliance Ledger?
+288,"What actions are listed in the table, and what do they signify?"
+289,What does a Cluster ID represent in the Matter Specification?
+290,"What threat involves the compromise of a Bridged Device, potentially leading to control of Matter-side Devices and access to sensitive Device data such as controlling cameras or unlocking doors?"
+291,"How are deprecated values or ranges in enumerations, fields, or identifiers indicated?"
+292,Which TLV element types have a predetermined length?
+293,What data types are defined within the ICD Management Cluster?
+294,What authentication methods are used to identify Subjects in the Access Control system?
+295,What does the NodeLabel Attribute represent?
+296,What is the purpose of the Access Control Cluster?
+297,How are changes to the set of Bridged Devices handled by the Bridge?
+298,What is Commissioner Discovery?
+299,What is the purpose of the AttestationRequest command?
+300,What is Device Attestation (DAC) and its purpose?
+301,"Describe the functionality indicated by the ""Temp Sensor Client"" example."
+302,What fields are included in the SetRegulatoryConfig Command?
+303,How is System Time in microseconds defined?
+304,What recommendation is provided regarding the MinIntervalFloor parameter for intermittently connected devices (ICDs)?
+305,What are the roles of the Commissioner and the Commissionee in the PASE protocol?
+306,What are the specifications for the cryptographic hash computed by Crypto_Hash()?
+307,What commands are supported in Example 6?
+308,Which context-specific tag is used to identify the extensions field in the Matter certificate structure?
+309,What is the purpose of the KeepSubscriptions parameter?
+310,What components of the Proxy Service are considered provisional?
+311,How is Matter Commissionable Node Discovery performed?
+312,What information does the MinIntervalFloor parameter specify?
+313,What are fabric-scoped IDs?
+314,What constraints are imposed on the TargetsPerAccessControlEntry attribute?
+315,What is the purpose of the Local Session Identifier in secure unicast communication?
+316,What does the BatTimeToFullCharge Attribute indicate?
+317,acronym of  AES 
+318,What rules apply to the encoding of the ProtocolCode field in a StatusReport message?
+319,What does the AnnouncementReasonEnum data type include?
+320,What happens if a list entry in DSTOffset has a ValidStarting time smaller than the ValidUntil time of the previous entry?
+321,What does the responder do upon receiving Pake3?
+322,What is the purpose of the Global Unencrypted Message Counter?
+323,What actions are taken upon verification success by the receiver of the MsgCounterSyncRsp message?
+324,What are the different types of message transports supported?
+325,How are cryptographic primitives defined in the Matter protocol?
+326,Where can one find information about conventions and conformance?
+327,"According to the specification, what value should the format_version field contain in a Certification Declaration?"
+328,What happens in the event of a collision in selecting the DNS-SD instance name?
+329,What examples and platforms does the Matter reference implementation support?
+330,What constraints are imposed on the AccessControlEntriesPerFabric attribute?
+331,What is the purpose of using a key value of 2 for CM?
+332,What is mentioned regarding the use of Avahi in the provided scenario?
+333,How does the sender of the MsgCounterSyncRsp message set up the response?
+334,How can a user temporarily disable a motion sensor automation in Example 3?
+335,What baseline does Matter provide for building secure IoT devices?
+336,What fields are included in the StartRequest command?
+337,What information does the StatsResponse command provide?
+338,What does a concrete path indicate?
+339,What extensions are included in the DAC?
+340,What fields are included in each reliable message context record in the retransmission table in MRP?
+341,What does the GENERAL CODE field in a Status Report message provide?
+342,Which context-specific tag is used to identify the key usage extension entry in the Matter certificate extensions list?
+343,How can a user temporarily pause the wake-up routine in Example 4?
+344,What constraint is specified for the LabelList attribute in the User Label Cluster?
+345,What commands are supported in Example 5?
+346,What conditions terminate the interaction in an Incoming Invoke Request Action?
+347,What is the purpose of the Duration field in the StartActionWithDuration command?
+348,Provide other Matter specifications External references documents ?
+349,Can you list some Protocol Conditions?
+350,What does the Crypto_AEAD_DecryptVerify() function do in Matter?
+351,"What does the term ""Wildcardable"" mean?"
+352,Can you provide examples of how the Fixed Label Cluster can be used?
+353,"What is the output of the algorithm described in ""6.6.5.2. Overall Algorithm""?"
+354,How is the Message Reception State determined for incoming messages?
+355,What action is generated if a message layer receives an invalid message for an action?
+356,What is the root node endpoint in the Matter data model?
+357,How can a Matter controller discover the current IPv6 address and port for a known commissioned Matter Node?
+358,What commands are included in the Valid Proxies Cluster?
+359,"What determines whether an interaction occurs within a fabric context or a no fabric context, and is this defined in this section?"
+360,What is the architecture overview of Matter?
+361,What are the common TXT key/value pairs for Matter discovery?
+362,What validations should be performed on the Certification Declaration?
+363,How are DNS-SD records set up for the commissioned Matter Node in the provided examples?
+364,What is the highest revision number in the revision history of the Ethernet Network Diagnostics Cluster?
+365,What is the purpose of the PBKDFParamRequest message?
+366,How are the certificates represented in the Matter TLV schema format?
+367,What is the meaning of status code 0xC3?
+368,What is a Dimmable Light?
+369,What are the session configurations for an ICD in Idle Mode and Active Mode?
+370,What information does the RadioFaultChange event data contain?
+371,How does the initiator verify TBEData2.signature in CASE?
+372,How are DNS-SD records set up for a device in commissioning mode?
+373,What happens if the device receives an AddNOC command without an armed fail-safe context?
+374,How does the ReorderNetwork command handle cases where the NetworkIndex is out of range?
+375,How are CASE Authenticated Tags encoded and represented within Access Control Entries?
+376,What is BTP_CONN_RSP_TIMEOUT?
+377,How does Matter minimize data shared within its interactions?
+378,What fields are included in the RegisterClient command?
+379,What is the purpose of the SESSION_IDLE_INTERVAL key/value pair?
+380,What does the RxOtherCount attribute indicate?
+381,How are endpoint addresses allocated for dynamic nodes?
+382,Provide an example of a RequestCommandElement.
+383,What fields are optional in the QueryImage command and what are they used for?
+384,What major difference distinguishes Bulk Data Transfers from TFTP?
+385,What does the NetworkFaultChange event indicate?
+386,What does Matter offer for users?
+387,What happens to messages from sources that cannot be tracked by the Groupcast Session Context?
+388,What does the UpdateStateEnum data type represent?
+389,How are the session encryption keys concatenated in the key derivation function?
+390,What are some examples of methods represented by the bitmap in the pairing hint?
+391,What does the StayActiveRequest command allow a client to do?
+392,What principle do administrators follow when granting privileges to a Bridge?
+393,Which version of Matter you are trained on ?
+394,What is the purpose of message counters?
+395,What are the key design principles of Matter?
+396,What are the requirements for the authority key identifier extension in a Matter ICA Certificate and Matter Root CA Certificate?
+397,"What is the significance of the Group Key Set ID, and how is it utilized within the system?"
+398,What information does the HardwareFaultChange event data contain?
+399,What actions can Commissioners and Administrators take upon detecting an invalid or problematic firmware version?
+400,What is the function of an OTA Provider device?
+401,What revisions are mentioned in the revision history of the On/Off Light Switch device?
+402,"What are some potential limitations that may exist in protocol layers beneath the current one, according to this section?"
+403,"What does ""Existent Path"" mean in this specification?"
+404,Which extensions must the DAC carry?
+405,What actions should the OTA Requestor take based on the Action field in the ApplyUpdateResponse command?
+406,What are milestones in Matter and how are they used?
+407,What commands does the Administrator Commissioning Cluster expose?
+408,What is the ID and name of the event that indicates a change in connection status?
+409,What is the responsibility of the Commissionee regarding the Certificate Chain?
+410,What is the full-family pattern used for?
+411,What is an Endpoint Address?
+412,What does an entry granting privileges to the On/Off Cluster with Color Light Bulb Device Type entail?
+413,What is the purpose of the FabricFiltered parameter?
+414,What is the purpose of the Constraint column for a data field?
+415,What protocol is used for short-lived queries in Thread mesh networks?
+416,How is TCP support indicated in Matter discovery?
+417,What does the responder do if the decryption is successful?
+418,What is the setup flow for a Bridge and its Bridged Devices onto a Fabric?
+419,What are relationships between devices established using in this specification?
+420,What is the cluster ID for the General Commissioning Cluster?
+421,What does the IsChild field indicate in the NeighborTableStruct type?
+422,What is the purpose of the extended key usage extension in the Matter certificate structure?
+423,acronym of  SHA 
+424,What defines the Invoke Interaction limits in Matter?
+425,What is the purpose of the Public Key (ec-pub-key)?
+426,What action does the responder take if any of the validations fail in CASE?
+427,What is the content of the additional data octet string A used in the AEAD operation?
+428,What does the RxUnicastCount attribute indicate?
+429,What happens when the receivers receive the MsgCounterSyncRsp message?
+430,What type is the WiredCurrentTypeEnum derived from?
+431,How often should announcements be made according to the text?
+432,How should Commissioners handle concatenated Onboarding Payloads in a QR Code?
+433,What is the ID of the Thread Network Diagnostics Cluster?
+434,When is the SuppressResponse flag set to 'true' in WriteRequestMessage?
+435,What is an Information Element?
+436,What is an upstream subscription?
+437,"What threat involves a long-range camera capturing a QR code at Commissioning time or otherwise, potentially allowing the attacker to connect the Device to their gateway or account?"
+438,What is the signature algorithm used in the DAC?
+439,What is the minimal requirement for CASE session?
+440,What attributes should a node maintain for time synchronization?
+441,What is the purpose of the Disco Ball Cluster?
+442,What is the Device Attestation section for?
+443,What occurs if the received NewRegulatoryConfig value does not match either Indoor or Outdoor fixed values in LocationCapability?
+444,What are the fields of the PatternStruct type?
+445,What session context information do nodes maintain during message counter synchronization?
+446,What does the optional key RI provide?
+447,What are the guidelines for disambiguating sibling endpoints with the Duplicate condition?
+448,What is the purpose of the AdminNodeID field?
+449,What are the encoding rules for the basic constraints extension in a Matter Firmware Signing Certificate?
+450,What clusters are required for each endpoint supporting the On/Off Light Switch device type?
+451,What does the ServerList attribute specify?
+452,What transactions compose the Subscribe interaction?
+453,How does Matter ensure interoperability while accommodating different security needs?
+454,What threat involves an attacker remotely starting a household appliance belonging to a device type that may cause harm without attended confirmation?
+455,What processing is performed for standalone acknowledgment in MRP?
+456,What conditions must a single target fulfill?
+457,Are there any restrictions on assigning the value 0x0000 to a Product ID?
+458,"What is the purpose of Access Control Extensions, and how are they managed?"
+459,How is the basic constraints extension treated in the Matter certificate structure?
+460,What is the role of a Trusted Root Certificate Authority (TRCA) in anchoring a Fabric?
+461,What is EventStatusIB used for?
+462,What does the PendingTimestamp attribute indicate?
+463,What data fields does the PauseAction command have?
+464,How should the client select a proxy?
+465,Can a client receive feedback for actions triggered by the InstantAction command?
+466,What are the steps involved in privacy processing of incoming messages?
+467,What restrictions apply to the list entry data type in the Matter Specification?
+468,What action does the responder take if the decryption fails?
+469,Which layer handles the construction and encoding of messages?
+470,How is each network uniquely identified in the Network Commissioning Cluster?
+471,What is Device Attestation?
+472,What does the conclusion suggest about the collaboration in developing smart homes and IoT ecosystems?
+473,What is the implication of having a context-specific tag within a structure?
+474,How does Matter handle service discovery in Multicast DNS (mDNS)?
+475,How is the ImageDigest field computed?
+476,What other device types are to be implemented with the Root Node?
+477,What is a Fabric in the Matter protocol?
+478,How does a Matter Node configure routes to adjacent networks?
+479,How is group membership handled in Group authentication?
+480,What differentiates Epoch Time in Seconds from Epoch Time in Microseconds?
+481,What is the development approach of Matter?
+482,What is the purpose of POSIX Time in milliseconds?
+483,How do Devices validate configuration and input changes?
+484,
+485,What is the public key algorithm used in the DAC?
+486,Transcript Hash
+487,How do battery-powered Devices respond to excessive queries?
+488,What information can the Label field of SemanticTagStruct contain?
+489,What is the purpose of the dac_origin_vendor_id and dac_origin_product_id fields in Certification Declaration?
+490,What are the limits on the number of alphanumeric characters in the QR code?
+491,What is the Last Known Good UTC Time in the context of Matter?
+492,How does the administrator respond to reported or detected attacks?
+493,What is the purpose of the InvokeRequests field?
+494,What data fields does the StateChanged event have?
+495,What does the Change field in AttributeDataIB indicate?
+496,What is required of Matter devices to ensure data is shared only between known entities?
+497,What is the purpose of the AccessControlEntryStruct type?
+498,What attribute contains a list of NetworkInterface structs in the General Diagnostics Cluster?
+499,What is the purpose of the authority key identifier extension in the Matter certificate structure?
+500,What is the purpose of the CompanyPreferredName field?
+501,How is the MsgCounterSyncReq message secured and what does it indicate?
+502,How does the Matter protocol utilize IPv6 addressing?
+503,What is the role of the administrative domain manager (ADM) in Matter?
+504,What does the initiator do after successfully setting the Resumption ID and Peer Session Identifier in the Session Context in CASE?
+505,What fields comprise the SemanticTagStruct in the Matter Specification?
+506,What base format do the single and double precision number formats in IEEE 754-2019 adhere to?
+507,How should Product Attestation Intermediate certificates handle the fallback method?
+508,What is the starting point for subsequent releases after revision 10?
+509,Is there an optional method for opening a commissioning window on a Node?
+510,How is a transaction defined?
+511,What happens if a message received over UDP exceeds the maximum message size limit in Matter?
+512,What does Matter revision 1 equate to?
+513,What is the minimal requirement for IPv6 Prefix?
+514,"What threat involves physical tampering with a Device, permitting compromise by an attacker with physical access to the Device?"
+515,What types of attribute data paths are allowed in the Valid Write Attribute Paths table?
+516,What is the role of a transaction in the provided text?
+517,What are the ordering rules for tags in the Matter TLV format?
+518,How should the onboarding material be presented when printed on product or packaging material?
+519,What is the version field set to in the PAA certificate?
+520,What is the requirement for generating Firmware Information?
+521,What information does the ReachableChanged Event contain?
+522,What actions can the OTA Provider take in response to an ApplyUpdateRequest command?
+523,What command initiates the process of retrieving diagnostic logs from a Node?
+524,What is the purpose of Request Path Expansion in an Incoming Invoke Request Action?
+525,How are attestation (DAC) private keys protected by all Devices?
+526,Could you describe the algorithm outputs section of the first example Certification Declaration provided in Appendix F?
+527,What are the first-order elements in the Matter Data Model?
+528,Is there a Status interaction defined in the provided text?
+529,How are proposed transfer control and transfer modes handled in the BDX protocol?
+530,What is the purpose of the Data Model Tiger Team?
+531,What should an OTA Provider not do regarding the contents of a Software Image?
+532,"What principle does the algorithm in ""6.6.5.2. Overall Algorithm"" respect?"
+533,What does Matter define in Appendix E regarding ASN.1 Object Identifiers (OIDs)?
+534,What is the purpose of the Groupcast Session Context?
+535,List the appliance-related device types.
+536,What clusters are required for each endpoint supporting the Extended Color Light device type?
+537,What does the BatChargeLevelEnum type signify?
+538,What should factory reset remove from the Node?
+539,What is the ID of the LabelList attribute?
+540,What are the constraints regarding the appearance of matter-fabric-id attributes in Matter Root CA and ICA Certificates?
+541,How long should Commissioners and Administrators wait for a cluster operation to time out with the Fail-Safe timer?
+542,How should uncommissioned Devices be available for commissioning?
+543,Under what circumstances should a device not deliver the Onboarding Payload using an NFC tag?
+544,What is Firmware Information according to the specification?
+545,What is the next processing step for the received message after standalone acknowledgment processing in MRP?
+546,What is the purpose of the SourceNodeId field in the Proxy Discover Response Command?
+547,How does the initiator generate the signature in CASE?
+548,Sigma3 Key (S3K)
+549,What is the output of the algorithm?
+550,What is the purpose of the AttributeReportIB?
+551,What actions does the receiver of the MsgCounterSyncReq message take upon receipt?
+552,What does the Acknowledged Message Counter field in MRP represent?
+553,What overrides are present in the Super Disco Ball cluster?
+554,What is the initial state of the alarm system action in Example 6?
+555,What is the direction of the ResetCounts command?
+556,"How are the Path and DataVersion fields used in EventPathIB and DataVersionFilterIB, respectively?"
+557,"What is the mapping or equivalent of ""Attribute"" terminology in Matter to HomeKit, Weave, Thread, and Zigbee?"
+558,What happens in Step 5 of the process?
+559,What are the requirements for the QR code Version and ECC levels?
+560,How can IP pairing be performed using the chip-tool controller?
+561,What is the purpose of the LocalConfigDisabled Attribute?
+562,How do manufacturers address newly discovered vulnerabilities?
+563,How is the success or failure of the SetRegulatoryConfig Command communicated?
+564,How are IPv4Addresses represented in the NetworkInterface Type structure?
+565,What does the Command element in InvokeResponseIB contain?
+566,What happens if both AttributeRequests and EventRequests are empty in response to a Subscribe Request action?
+567,When is the Source Node ID field present in a message?
+568,What action is taken if the Report Data action is in response to a Subscribe Request action?
+569,What is the algorithm used in the subjectPublicKeyInfo?
+570,What benefits do device manufacturers gain from using a platform with trusted security services?
+571,"What is the definition of ""User Consent"" in the context of the OTA Cluster?"
+572,What is the ID and name of the event that indicates association failure?
+573,What are the encoding rules for the extended key usage extension in a Matter Node Operational Certificate (NOC)?
+574,How many VendorID values are present in the issuer field?
+575,How is Base-38 encoding achieved in the QR code?
+576,What is the version of this Matter specification?
+577,What actions are involved in an Outgoing Write Request Action?
+578,What parameter remains in effect for all data reported during the interaction upon subscription activation?
+579,What does the SuppressResponse field indicate?
+580,what are Matter specifications CSA references documents ?
+581,What happens if the subscriber does not receive a Report transaction within the maximum interval from the last Report Data?
+582,What is the difference between synchronous and asynchronous modes in BDX?
+583,What type of robotic device is listed?
+584,How are Crypto_PAKEValues_Initiator and Crypto_PAKEValues_Responder computed in Matter?
+585,What initiates the generation of a Read Interaction?
+586,Why is the port number 22222 given as an example in the provided scenario?
+587,How does the behavior of the acknowledgement-received timer serve as a keep-alive mechanism?
+588,What is AttributeDataIB used for?
+589,What implementation options are provided for various types of nodes?
+590,What is the purpose of the DefaultNTP attribute?
+591,What is required for Matter devices with cryptographic certificates?
+592,What does the AuthMode field specify?
+593,What is the BatChargeStateEnum type derived from?
+594,"Are there any fields in an event path that can be wildcarded, and are there any limitations on this wildcarding?"
+595,Why is using a struct as a list entry data type recommended in the Matter Specification?
+596,What is the purpose of the Node Operational Certificate (NOC)?
+597,What determines the privilege level granted per Target in the Interaction Model protocol?
+598,When would the Other Value be used in the EndpointListTypeEnum Type?
+599,What algorithm is used for the signatureAlgorithm in the Certification Declaration encoding format?
+600,What are the fields included in the ArmFailSafeResponse Command?
+601,"In the ASN.1 encoding format, what does the SignerInfo sequence consist of?"
+602,"How are the Message Flags, Destination Node ID, and Source Node ID fields set for a unicast session?"
+603,"What is the mapping or equivalent of ""Server"" terminology in Matter to HomeKit, Weave, Thread, and Zigbee?"
+604,What are the requirements for the characters used to encode VendorID and ProductID in the fallback method?
+605,When are unencrypted messages used in Matter?
+606,What is the purpose of the ChangeTypeEnum data type?
+607,What does the Data Model define?
+608,How is feature conformance defined in the Matter specification?
+609,What are Trusted Root CA Certificates used for?
+610,what is Access
+611,What action initiates the Subscribe Transaction?
+612,Where i can find Matter reference implementation or SDK ? 
+613,What does the ManufacturingDate Attribute specify?
+614,How does the Bridge handle button presses from a switch device?
+615,What data fields does the PauseActionWithDuration command have?
+616,How does an entry granting privileges to Endpoint 1 behave?
+617,What does the MaxGroupsPerFabric attribute specify?
+618,How are values encoded in the Matter TLV format?
+619,What are the primitive types supported by the Matter TLV format?
+620,How are Matter-common elements tagged in the TLV Data section?
+621,What steps are involved in the algorithm for revocation set construction?
+622,"How is the ""subject_matches"" function defined in the algorithm described in ""6.6.5.2. Overall Algorithm""?"
+623,How many container types does the Matter TLV format support?
+624,What are the two types of Global Group Encrypted Message Counters?
+625,What is the ASN.1 OID base for the common-name attribute in a Matter certificate?
+626,What information does the UserManualUrl field provide?
+627,What are the default values for the Session parameters?
+628,How should access to Validator Nodes be restricted?
+629,How does the specification prioritize time synchronization sources?
+630,What messages do the parameters in Section 4.7.1 apply to?
+631,What are the requirements for the Device Attestation Certificate (DAC)?
+632,What does the ConnectionStatusEnum data type represent?
+633,What action does MRP take if a positive acknowledgment is received before the retransmission timer expires?
+634,How is the Status Report message utilized in the Secure Channel Protocol?
+635,What does the Ending Segment bit indicate in BTP Frame?
+636,What does the RegulatoryConfig attribute indicate?
+637,What is fabric-scoped data?
+638,What is the Enhanced Commissioning Method?
+639,What does the 'NetworkingStatus' field in the 'ScanNetworksResponse' command indicate?
+640,What is the Cluster ID for the Proxy Discovery Cluster?
+641,What is the purpose of the Commissioner Setup Code Entry user journey?
+642,What are the Control Flags in the BTP Handshake Response frame and how are they set?
+643,What does the Peer’s Encrypted Group Data Message Counter Status include?
+644,How is the decryption operation executed in step 2 of privacy processing?
+645,What does the TxUnicastCount attribute indicate?
+646,What is required for seeding Crypto_DRBG()?
+647,What does the SupportedCalendarTypes attribute specify?
+648,What is the equivalence between Matter revision 1 and revision 16?
+649,What does the TxDirectMaxRetryExpiryCount attribute indicate?
+650,When is the Started event generated?
+651,What does the LsfUrl field identify?
+652,What is SubscriptionID used for?
+653,What does the ActiveBatChargeFaults Attribute indicate?
+654,What is the format of the CallbackUrl for Custom Commissioning?
+655,What restriction is there on the number of outstanding synchronization exchanges for each peer Node ID and group key pair?
+656,What information must subsequent ReportData actions include?
+657,When should the Device Attestation Certificate Chain be read?
+658,What does the Path Information section describe?
+659,What principles guide the architecture of Matter in terms of security and privacy?
+660,What does the RoutingRole attribute indicate?
+661,How is the NTPServerAvailable attribute determined?
+662,"What threat involves commissioning an uncommissioned Node without physical access to the Device, leading to silent control of the Node and access to sensitive Node data?"
+663,What does the SupportUrl field identify?
+664,Can you define an OTA Requestor and an OTA Provider?
+665,What does the package of Data Model specifications aim to achieve?
+666,What does the VendorID field indicate in the Device Attestation PKI Revocation Distribution Points Schema?
+667,"When is the ""TimeOut"" value used?"
+668,Is the endpoint component of an attribute path subject to wildcard expansion?
+669,What information should the SoftwareVersion field provide?
+670,What are the development goals of Matter?
+671,How are software updates handled for the Bridge and Bridged Devices?
+672,What is the purpose of the Session Establishment Phase in unicast communication according to the specification?
+673,What is Example 1 about?
+674,What does the Support note mention regarding wildcard paths for commands?
+675,What information does the RadioFaultChange event data contain?
+676,What is the purpose of the ActiveModeThreshold attribute?
+677,What is the Distributed Compliance Ledger (DCL)?
+678,What are the Protocol Opcode mappings for IM Protocol Messages?
+679,What is the purpose of the EventList attribute?
+680,When does the cluster send AccessControlExtensionChanged events?
+681,What is the purpose of the QueryImage command?
+682,How are the PBKDFParamResponse and Pake2 messages flagged in terms of the I Flag of the Exchange Flags of the Protocol Header?
+683,What is the role of stub routers in IPv6 reachability in the Matter protocol?
+684,What is the purpose of regional roll-out of software images?
+685,What does the Type field indicate in the NetworkInterface Type structure?
+686,How are the not-before and not-after fields encoded in the Matter certificate structure?
+687,"What is the role of extensions processing according to the algorithm in ""6.6.5.2. Overall Algorithm""?"
+688,What are the features supported by the ICD Management Cluster?
+689,What does the Speed attribute in the Disco Ball Cluster indicate?
+690,How can devices support measured boot?
+691,How was Matter developed?
+692,How does the initiator verify the NOC in TBEData2 in CASE?
+693,What is the significance of Global Group Encrypted Message Counters being shared by many group keys?
+694,What is the purpose of the EventDataIB?
+695,What is FabricFiltered used for?
+696,What information does the Max Block Size (MBS) field provide?
+697,What actions are undertaken on the Server upon successful execution of the CommissioningComplete command?
+698,What is the purpose of an Exchange in the Matter protocol?
+699,What signature algorithm and elliptic curve are referenced in this chapter?
+700,How many Power Source Clusters are defined in the scenario of a battery with dual back-up?
+701,What does the AvailableCapacity field represent in the Proxy Discover Response Command?
+702,What is a request path used for?
+703,What does the ChannelPage0Mask attribute indicate?
+704,What are the limitations on the size of a single BTP SDU and its segments?
+705,What status code does the RevokeCommissioning command return if no commissioning window is open?
+706,How is the decryption operation executed in step 2 of privacy processing?
+707,What security components should Devices include?
+708,What type of data structure does the LabelList attribute use?
+709,What validation is applied to the CountryCode field in the SetRegulatoryConfig Command?
+710,What is the purpose of the Notification Value?
+711,What is the purpose of the GroupKeyMapStruct data type?
+712,What does the UpTime attribute indicate?
+713,How is the Manual Pairing Code encoded?
+714,What controllers are available in the Matter reference implementation?
+715,What does the BatANSIDesignation Attribute indicate?
+716,How does the protocol handle message exchanges?
+717,What determines whether an Invoke Response action is generated?
+718,What fields does the ConnectNetworkResponse command contain?
+719,What are Distinguished Names (DNs) in the context of a Matter certificate?
+720,When should a node act as an NTP server?
+721,What events are defined in the Super Disco Ball cluster?
+722,What does the SoftwareVersion field contain?
+723,What are the requirements for the authority key identifier extension in a Matter Node Operational Certificate (NOC)?
+724,What transactions compose a Write interaction?
+725,What is the value of the ClusterRevision attribute for the OTA Software Update Provider Cluster?
+726,"According to the specification, what does the version_number field contain in a Certification Declaration?"
+727,"How are the Message Flags, Destination Node ID, and Source Node ID fields set for a group session?"
+728,What measures should vendors take to ensure the availability of their own Observer Nodes?
+729,When was this document published?
+730,acronym of  API 
+731,Provide an example from the Matter Specification of reading and writing to a fabric-filtered list entry when accessed with a specific fabric.
+732,What clusters are required for each endpoint supporting the On/Off Plug-in Unit device type?
+733,What does the PI Dependency column in the table indicate?
+734,"What does the value ""LithiumSulfur"" represent in the BatApprovedChemistryEnum type?"
+735,What is the significance of the Command field in CommandPathIB?
+736,How does the initiator indicate whether the PBKDF parameters are known for the particular passcodeId?
+737,What is the purpose of the ICD Management Cluster?
+738,How is the Matter Data Model described in the document?
+739,"What threat involves a cloned Device entering the network, potentially causing loss of revenue or brand issues for the original manufacturer?"
+740,What are some tasks that can be run in Matter's Visual Studio Code environment?
+741,What does the Multiple Fabric feature allow a Node to do?
+742,What does the ErrorCode field in the ArmFailSafeResponse Command contain?
+743,What options do device manufacturers have regarding platform security for Matter devices?
+744,What does the HardwareAddress field contain in the NetworkInterface Type structure?
+745,How can multiple keys of the same length be generated using a single KDF call in Matter?
+746,What fields are present in the CertificateChainResponse command?
+747,What identifies a Node ID in the Matter ecosystem?
+748,What does System Time in milliseconds represent?
+749,What does Data Version indicate in the Matter Specification?
+750,Why is the uniqueness of an encrypted message's counter vital to message confidentiality?
+751,What are the different user journeys supported by Matter for initiating the commissioning?
+752,What does the 'ConnectMaxTimeSeconds' attribute specify?
+753,What fields are used as inputs to the conceptual algorithm for matching OTA Software Images?
+754,How should ICD communication patterns be designed?
+755,What fields are present in the EventReportIB?
+756,When is the LogContent field included in the RetrieveLogsResponse command?
+757,what SHOULD keyword in Matter specifications means ? 
+758,What does the BatReplaceability Attribute indicate?
+759,What is the purpose of the Data Model architecture in the Matter project?
+760,What does the SecurityType attribute indicate?
+761,What features does the Software Diagnostics Cluster support?
+762,What are the contents of the issuer field in the DAC?
+763,What does the FeatureMap attribute in this cluster represent?
+764,What resiliency features do Devices implement?
+765,What parameters are used to identify messages in the Secure Channel and Message Layer?
+766,What actions does a Node take upon receiving an IPv6 message addressed to one of the Multicast Addresses it is registered for?
+767,How are browsing and resolving of service instances performed in DNS-SD?
+768,What is the purpose of the Timestamp Field in an event record?
+769,What is the format of the not-before and not-after fields in the Matter certificate structure?
+770,What is the expected supported Maximum Transmission Unit (MTU) in Matter?
+771,"How should undefined values or ranges in enumerations, fields, or identifiers be treated according to the standard?"
+772,What is the purpose of the Passcode field in PatternStruct?
+773,What ensures the synchronization of the subscription between the subscriber and publisher?
+774,How are unsupported elements handled in an Incoming Invoke Request Action?
+775,How does a source indicate its need for a proxy?
+776,What is the purpose of the User-Initiated Beacon Detection user journey for already commissioned devices?
+777,What considerations should the key distribution Administrator account for when updating epoch keys for Nodes without synchronized time?
+778,acronym of  CTR 
+779,What does the global SUCCESS status code indicate?
+780,What information does the ProviderNodeID field contain?
+781,How are changes to exposed entities monitored?
+782,What is the composition of the nonce used for the Authenticated Encryption with Additional Data (AEAD) algorithm for a given message?
+783,What are the global status codes for the Interaction Model?
+784,What are the fields included in the LabelList attribute?
+785,How is the termination of Privacy Key iteration handled?
+786,What does the SupportedCalendarTypes attribute specify?
+787,How is the key usage extension treated in the Matter certificate structure?
+788,What attributes are provided in the Classification section for the Proxy Configuration Cluster?
+789,What is the purpose of the future extension in the Matter certificate structure?
+790,What privilege level is implicitly granted by the Administer Value?
+791,What are the characteristics of the second example Certification Declaration presented in Appendix F?
+792,What fields are included in the key usage extension structure in the Matter certificate structure?
+793,What steps can an Administrator take to remove a Node from a CAT group?
+794,What basic flow control mechanism does the Exchange Layer enforce?
+795,How does Matter accelerate interoperability and adoption?
+796,What does an empty subjects list indicate?
+797,How does the system prevent malicious or unattested devices from acting as proxies?
+798,How do Nodes register to receive group messages?
+799,What are the requirements for Nodes sending group messages regarding the usage of operational group keys derived from epoch keys?
+800,How is the TLV Data encoded in the QR code?
+801,What is used to identify a DeviceModel in the DeviceModel Schema?
+802,What does Figure 27 illustrate?
+803,What does the Commissioning Flag indicate in the ISD?
+804,What is the purpose of message reception state?
+805,"When establishing a session over IP, what transport does the initiator use if both nodes support TCP?"
+806,What steps does the responder take to generate and send Sigma2_Resume?
+807,How should cryptographic keys be chosen?
+808,What networking technology must Thread devices support?
+809,What is the consequence if a Write Request action indicates the need for a Timed Write transaction but is not part of a Timed Write transaction?
+810,What are the fields included in the Binding attribute?
+811,Under what circumstances will the KeySetRemove command fail?
+812,What privilege level is required to access the Access Control Cluster?
+813,What does the WiFiVersion attribute indicate?
+814,What threat involves exploiting a vulnerability in the Device to gain arbitrary control over the Device?
+815,What is the purpose of the AnnounceOTAProvider command?
+816,How should subsequent releases of Matter start numbering?
+817,What is the data type of ProductAppearanceStruct?
+818,"What is the purpose of the bitmap in the TXT record, and how is it represented?"
+819,How is the Privacy Key derived?
+820,What type of value does the ActiveLocale attribute hold?
+821,What is a Device?
+822,What conditions will result in a CONSTRAINT_ERROR when creating or updating an Access Control Extension?
+823,"What are the UUIDs and properties of the C1, C2, and C3 characteristics in the BTP GATT service?"
+824,What action should a Commissioner take if certificate_id does not match CDCertificateID field?
+825,"Name the device types listed under the ""switches and controls"" category."
+826,What is the format of the DNS-SD instance name for Commissionable Node Discovery?
+827,What Interface Conditions are described?
+828,What protection should Devices and Nodes include against known remote attacks?
+829,"What threat involves an attacker with privileges on Bridged Ecosystems gaining control of all interactions between Matter and bridged devices, potentially including control of Matter devices?"
+830,What are the types of Invoke transactions?
+831,What is the purpose of the Interaction Model Specification?
+832,What does a Commissioner use during the device attestation procedure to determine whether PAI and DAC certificates are revoked?
+833,How does Matter handle the delegation of TRCA to Intermediate Certificate Authorities (ICA)?
+834,What does the Status element in InvokeResponseIB contain?
+835,What are the overridden element requirements for the Dimmable Light device?
+836,"What are the steps involved in preparing a message for transmission with a given Session ID, Destination Node ID, and Security Flags?"
+837,What is the function of an OTA Requestor device?
+838,How are the extension entries identified in the extensions list of the Matter certificate structure?
+839,What are the requirements for the authority key identifier extension in a Matter Firmware Signing Certificate?
+840,What is a Manual Pairing Code?
+841,What is the EnableKey field used for in the TestEventTrigger command?
+842,What uniqueness constraints apply to the subject of DAC and PAI certificates?
+843,What is AttributeStatusIB used for?
+844,What is the significance of the Subject ID in CASE AuthMode?
+845,How do Matter Nodes configure IPv6 addresses and routes in different network configurations?
+846,What is a Commissioner?
+847,What is the purpose of the Data Field in an event record?
+848,What is the encoding method used for the TLV Data section?
+849,Sample DestinationMessage
+850,What is the purpose of the Bluetooth Transport Protocol (BTP)?
+851,What is the purpose of the Crypto_PBKDF function in Matter?
+852,"What is the mapping or equivalent of ""Endpoint Address"" terminology in Matter to HomeKit, Weave, Thread, and Zigbee?"
+853,"What threat involves a remote attack being used to extract keys and other secrets, potentially leading to the discovery of Device crypto keys and other secrets?"
+854,What does the ConnectionStatus event indicate?
+855,What is the purpose of the UpdateToken field in the ApplyUpdateRequest command?
+856,What is the optional key DT used for?
+857,What is included in the Subscribe Response Action?
+858,What does the RxErrFcsCount attribute indicate?
+859,"What are the device IDs and names listed under the ""lighting"" category?"
+860,What is Soft-AP?
+861,What TLV schema does the payload of the Pake3 message follow?
+862,What fields are included in each reliable message context record in the acknowledgement table in MRP?
+863,When is the ProductID field required in the Distribution Points Schema?
+864,How does a groupcast action affect a transaction?
+865,What types of data are considered non-configuration data?
+866,What technologies does Matter enable communication across?
+867,What is the ID and name of the command that resets counts?
+868,What information does the RegisteredClients attribute contain?
+869,What policy governs the deletion or recycling of Groupcast Session Context records?
+870,Does Matter mandate support for IPv6 fragmentation?
+871,What is the GeneratedCommandList attribute?
+872,What are the two methods for encoding VendorID and ProductID in subject and issuer fields?
+873,What is omitted in the encoding of CommandPathIB?
+874,What is the purpose of the Proxy Discover Request Command?
+875,"What is the purpose of a command path, as described in this section?"
+876,What is the significance of CASE Authenticated Tags (CATs) in identifying Subjects?
+877,"What threat involves a buyer or trash picker dumping memory to find previous owner’s Device keys, group keys, and network credentials?"
+878,What commissioning method is implemented by device manufacturers for devices with adequately secured Passcodes?
+879,HMAC Key (IPK)
+880,"Which device types belong to the ""smart plugs/outlets and other actuators"" category?"
+881,What is the purpose of the Node Operational Credentials Procedure?
+882,Could you describe the algorithm outputs section of the second example Certification Declaration provided in Appendix F?
+883,How is the availability of the UDC protocol advertised?
+884,What are the overridden element requirements for the On/Off Plug-in Unit device?
+885,"What is the mapping or equivalent of ""Node"" terminology in Matter to HomeKit, Weave, Thread, and Zigbee?"
+886,What action should Nodes take on factory reset regarding these counters?
+887,"What happens if an error occurs during the construction, encoding, or conveyance of an action?"
+888,What does Matter provide beyond just a specification?
+889,What Access Control Entry is added to grant Operate privilege to specific Nodes for extended color light devices?
+890,Provide an example of replacing a list with multiple IBs.
+891,What are the requirements for Custom Commissioning Flow devices?
+892,What attributes are included in the Bridged Device Basic Information Cluster?
+893,What are the performance recommendations for operational discovery of Matter Nodes?
+894,What is the Nonce Source Node ID set to based on the type of message?
+895,What information is included in TXT records for Commissionable Node Discovery?
+896,How are lists encoded in a chunking-friendly manner?
+897,What are the requirements for vendor-specific items on a certified product?
+898,What information is configured during the commissioning process in Matter?
+899,Provide more Matter specifications External references documents ?
+900,What encryption method does the initiator use for TBEData3 in CASE?
+901,Can you provide an example of encoding a scalar value for a Matter-specific DN attribute type?
+902,What cluster is derived from the Disco Ball cluster?
+903,What mechanism and policy should vendors of Matter implementations have regarding public vulnerability reporting and security vulnerabilities rectification?
+904,What does the BootReason Event indicate?
+905,How is an Exchange closed in the Matter protocol?
+906,What information does the SoftwareVersion Attribute contain?
+907,What is Example 5 about?
+908,What does the 'NetworkInfoStruct' struct describe?
+909,What is the purpose of the Bridged Node device type?
+910,What does the SecurityPolicyPresent field indicate in the OperationalDatasetComponents type?
+911,What are the examples provided for simulating a Node in commissioning mode advertising its availability for commissioning?
+912,Do tags within a list need to be unique?
+913,What privacy-preserving mechanism does Matter employ?
+914,What components comprise the unique identifier in the Groupcast Session Context?
+915,What happens if there are no available resources during the creation of multiple bindings?
+916,What is a Product ID (PID)?
+917,What is the role of the Manufacturer Extensible Identifier (MEI) in the Matter specification?
+918,How does BLE commissioning utilize the GAP and GATT?
+919,What types of commands are included in the GeneratedCommandList attribute?
+920,What does a Field ID identify in the Matter Specification?
+921,How is the Status Response Action handled after being generated?
+922,What is the purpose of the Segment Payload field in BTP Frame?
+923,How does the presence of the PH and PI keys impact the DNS-SD TXT record?
+924,What is the purpose of the KeySetReadAllIndices command?
+925,What types of certificates are exemplified in the examples?
+926,What does the Protocol Header of a Matter message contain?
+927,What fields are included in the Transfer Control (TC) field of SendAccept/ReceiveAccept messages?
+928,Can a simple endpoint support multiple Application device types?
+929,What should the OTA Requestor do in case of time-out or error while awaiting an action from the OTA Provider?
+930,What attributes are included in the Super Disco Ball cluster?
+931,What is a Server in network clusters?
+932,What is the purpose of the 'AddOrUpdateWiFiNetwork' command?
+933,What status codes are used to indicate insufficient resources for an action?
+934,How is the Message Length field used in BTP Frame?
+935,What does the ChannelPresent field indicate in the OperationalDatasetComponents type?
+936,What are the Intermediate outputs in the test vector?
+937,"What does the ""InvokeID"" data field indicate?"
+938,What is the purpose of the Commissioner Discovery user journey from an On-Network Device?
+939,What is the purpose of the ConnectNetwork command?
+940,What does the BatFunctionalWhileCharging Attribute indicate?
+941,What cryptographic elements are included in the intermediate outputs section of the second example Certification Declaration?
+942,How is a BTP session initiated by the BTP Client?
+943,How are IPv6Addresses represented in the NetworkInterface Type structure?
+944,How is the ICD Check-In Protocol feature currently viewed within the Matter protocol?
+945,"What is the purpose of an event path, as outlined in this section?"
+946,"Is the endpoint field wildcardable in a command path, and are there any exceptions to this rule?"
+947,What does the 'WiFiInterfaceScanResultStruct' represent?
+948,What is the purpose of the GroupInfoMapStruct data type?
+949,What is the purpose of receive windows in BTP?
+950,How are proxy discovery commands encrypted?
+951,Are there any requirements regarding the transaction ID within a transaction?
+952,What is the purpose of the ACL attribute?
+953,What considerations should be made regarding compatibility issues?
+954,How can a subscriber discover loss of synchronization?
+955,Why is the use of Unspecified Node ID as the Nonce Source Node ID considered semantically secure in PASE sessions?
+956,What is a wildcard path?
+957,How do Nodes communicate in a single-network topology?
+958,What is the purpose of Commissioners using the reported firmware information?
+959,What does the PartitionIdChangeCount attribute indicate?
+960,Where can constraints and examples related to usage of Matter-specific DN attribute types be found?
+961,What are the contents of the issuer field in the PAI?
+962,How is the message exchange organized in CASE protocol?
+963,What is the scope of the procedures defined in this section?
+964,What happens if a commissioning window is already open?
+965,What is Step 4 in the process?
+966,What does the StopRequest command do?
+967,How is a terminated Subscribe interaction handled by the publisher or subscriber?
+968,How is the Selected Window Size determined in the BTP Handshake Response frame?
+969,"What metadata does the Message Layer provide to enforce Access Control, and how is it utilized?"
+970,What is the signature algorithm used in the PAI certificate?
+971,What information does the optional key DN provide?
+972,What does the Crypto_PBKDFParameterSet structure represent?
+973,Sigma2 Key (S2K)
+974,"How are paths utilized within the context of this section, where path definitions are provided?"
+975,How are signed integer schema types encoded?
+976,How does the Access Control Privilege Granting algorithm behave during the commissioning phase?
+977,"How should the onboarding material be presented in other representations (product display, app, etc)?"
+978,What is the purpose of the Proxy Configuration Cluster?
+979,"What threat involves a maliciously crafted message exploiting a Device vulnerability, causing Device compromise?"
+980,What clusters are required for each endpoint supporting the Dimmable Light device type?
+981,How is the matter-noc-cat value encoded?
+982,"What are the pre-conditions for the ""get_isd_from_message"" algorithm?"
+983,What additional extensions may the DAC carry?
+984,What is the result of executing this algorithm?
+985,What constraints may be imposed on the targets field?
+986,What is the conceptual algorithm for revocation set construction used for?
+987,What is the significance of the message counter window in the compressed form of message reception state?
+988,What is the purpose of the Access Control features?
+989,"What does the ""EndPointListID"" field provide?"
+990,What does the MeshLocalPrefix attribute indicate?
+991,What does the subjectKeyIdentifier field in the Certification Declaration encoding format contain?
+992,What ensures that only authorized Nodes can derive a given operational group key?
+993,What is a Network?
+994,What happens if the verification of passcodeID fails?
+995,What is the purpose of the Scene Value?
+996,"What are the roles with write access to the Ledger, and what can they do?"
+997,How are Matter-specific DN attribute types encoded in X.509 ASN.1 DER format?
+998,What can the TLV Data section of the Manual Pairing Code contain?
+999,What is the purpose of data shared between Matter nodes as defined in the standard?
+1000,What validation should Nodes perform for the iteration count in PBKDF?
+1001,What does the Channel attribute indicate?
+1002,Which context-specific tag is used to identify the subject key identifier extension entry in the Matter certificate extensions list?
+1003,What is the purpose of the Power Source device type?
+1004,How does the UDC protocol handle message retries?
+1005,How does Matter implement the AES-CCM-GenerateEncrypt function?
+1006,What does Figure 28 depict?
+1007,How can multiple Onboarding Payloads be concatenated into a single QR Code?
+1008,"What threat involves resetting a Device and commissioning it for silent control, leading to access to sensitive Node data?"
+1009,How are default values determined for data fields without a defined default value?
+1010,"What is the device type listed under ""generic""?"
+1011,What does the ActiveLocale attribute represent?
+1012,What action is taken if the path for an event request does not conform to Valid Event Paths?
+1013,"Who maintains the Policies, Procedure, and Governance of DCL?"
+1014,What extensions are included in the DAC?
+1015,What is the minimal requirement for Group?
+1016,What data is required for the 'AddOrUpdateWiFiNetwork' command?
+1017,What steps does the responder take to generate and send Sigma2 messages?
+1018,"Can you provide examples of constraints that clients might choose to impose in their interactions, as mentioned in this section?"
+1019,What is the purpose of the Run attribute in the Disco Ball Cluster?
+1020,What is the purpose of the protocol-specific portion of StatusReport messages?
+1021,How is the Authority Key Identifier field derived in the Matter certificate structure?
+1022,What is the purpose of the MoreChunkedMessages flag?
+1023,How is the KDF implemented in Matter?
+1024,What role does the open standard of Matter play in promoting transparency and validation of protocol and security controls?
+1025,What is the purpose of the Message Extensions field?
+1026,What is the Cache-and-sync policy in MCSP?
+1027,acronym of  PKI 
+1028,What does the RebootCount attribute indicate?
+1029,"What threat involves a malicious Device off the network causing a battery-powered Device to wake too often, leading to shortened battery life of nearby Devices?"
+1030,What information does the Group Peer State Table store for each peer node?
+1031,What is the purpose of the Revision History in the Software Diagnostics Cluster?
+1032,What is the scope of the Binding cluster's access quality in the context of endpoint interactions?
+1033,What does the Matter protocol support in terms of administration?
+1034,What is the Distributed Compliance Ledger?
+1035,What is contained within the InvokeResponses tag in InvokeResponseMessage?
+1036,How is the Time of Day data type structured in the Matter Specification?
+1037,What happens if regulatory information is set outside a valid country in the SetRegulatoryConfig Command?
+1038,What boot mechanism should Devices have to verify the authenticity of firmware?
+1039,What fields are included in the basic constraints extension structure in the Matter certificate structure?
+1040,What is the purpose of an Entry Index in the Matter Specification?
