@@ -136,7 +136,7 @@ conda create -n rag_project python=3.10
 conda activate rag_project
 
 # Install requirements
-cd trustii_rag_project_final
+cd Secure-Offline-RAG-System
 pip install -r requirements_rag.txt
 ```
 ### 2. LLM Server Setup (In a seperate Terminal)
