@@ -1,8 +1,8 @@
-# RAG System
+# RAG System 
 
 A  Retrieval-Augmented Generation (RAG) system designed for efficient processing of diverse content types with minimal computational overhead.
 
-# 🏆🥇 Competition Recognition
+# 🏆🥇 Competition Recognition (Please give the project a star 🌟 🙂)
 
 This solution won 1st place in the Secure RAG Challenge by UnderstandTech! 
 
