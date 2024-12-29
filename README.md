@@ -2,7 +2,7 @@
 
 A  Retrieval-Augmented Generation (RAG) system designed for efficient processing of diverse content types with minimal computational overhead.
 
-# 🏆 Competition Recognition
+# 🏆🥇 Competition Recognition
 
 This solution won 1st place in the Secure RAG Challenge by UnderstandTech! 
 
