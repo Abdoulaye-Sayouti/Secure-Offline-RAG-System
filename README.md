@@ -2,6 +2,16 @@
 
 A  Retrieval-Augmented Generation (RAG) system designed for efficient processing of diverse content types with minimal computational overhead.
 
+# 🏆 Competition Recognition
+
+This solution won 1st place in the Secure RAG Challenge by UnderstandTech! 
+
+For more details:
+- 🌟 [Official Competition Repository](https://github.com/Trustii-team/Secure-RAG-Challenge) - Contains solutions from all finalists
+- 📢 [Official Results Announcement](https://www.linkedin.com/posts/trustii-io_github-trustii-teamsecure-rag-challenge-activity-7275167689055064064-D2fa?utm_source=share&utm_medium=member_desktop) - LinkedIn post with competition results and details
+
+The challenge focused on building secure, offline RAG systems with emphasis on data privacy, security, and open-source technologies.
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [System Requirements](#system-requirements)
